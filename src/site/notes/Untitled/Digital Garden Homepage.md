@@ -15,5 +15,8 @@ This is the homepage for my vault.
 | [[AboutPython/env/1) conda 환경에서 가상 환경 만들기\|1) conda 환경에서 가상 환경 만들기]]   |
 | [[AboutPython/env/2) Venv 에서 가상환경 생성\|2) Venv 에서 가상환경 생성]]             |
 | [[AboutPython/env/3) python Package 관리\|3) python Package 관리]]         |
+| [[AboutPython/Filezilla연결\|Filezilla연결]]                               |
+| [[AboutPython/polars\|polars]]                                         |
+| [[AboutPython/ML&DL/Fraud_Detecting\|Fraud_Detecting]]                 |
 
 { .block-language-dataview}
