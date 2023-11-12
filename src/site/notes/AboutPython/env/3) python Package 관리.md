@@ -21,6 +21,10 @@ pip install --find-links="./" [패키지 이름]
 ```
 
 
-
+```cmd
+# 오프라인 환경 패키지 설치. 
+pip install --no-index --find-links=\\[file_path] polars
+conda install --no-index --find-links=[C:/Users/grey/Desktop/csv_file/polar] connectorx
+```
 
 
