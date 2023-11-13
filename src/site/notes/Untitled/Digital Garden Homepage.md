@@ -2,21 +2,21 @@
 {"dg-publish":true,"permalink":"/Untitled/Digital Garden Homepage/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
-This is the homepage for my vault. 
+# 안녕하세요, 김건회입니다.
+E-mail : kgeonhoe@gmail.com
+skills : `PYTHON`, `SQL`, `EXCEL`, `TABLEAU`, `Power BI` 
 
-| File                                                                      |
-| ------------------------------------------------------------------------- |
-| [[AboutPython/SQLAlchemy\|SQLAlchemy]]                                 |
-| [[AboutPython/pyspark\|pyspark]]                                       |
-| [[AboutPython/pycon pyspark\|pycon pyspark]]                           |
-| [[AboutPython/파이썬 경로 영구적으로 추가하는방법\|파이썬 경로 영구적으로 추가하는방법]]               |
-| [[AboutPython/map vs flatMap\|map vs flatMap]]                         |
-| [[AboutPython/pyspark 설치법 원도우 10 개발환경 구축\|pyspark 설치법 원도우 10 개발환경 구축]] |
-| [[AboutPython/env/1) conda 환경에서 가상 환경 만들기\|1) conda 환경에서 가상 환경 만들기]]   |
-| [[AboutPython/env/2) Venv 에서 가상환경 생성\|2) Venv 에서 가상환경 생성]]             |
-| [[AboutPython/env/3) python Package 관리\|3) python Package 관리]]         |
-| [[AboutPython/Filezilla연결\|Filezilla연결]]                               |
-| [[AboutPython/polars\|polars]]                                         |
-| [[AboutPython/ML&DL/Fraud_Detecting\|Fraud_Detecting]]                 |
+
+
+## Project Sort 
+
+- 이전 Project 링크 
+https://statuesque-haumea-53d.notion.site/b3c775a083c64275888dfe5e6eab11c7
+
+| File                                                      | projectname     | Created           | tag                                                                          |
+| --------------------------------------------------------- | --------------- | ----------------- | ---------------------------------------------------------------------------- |
+| [[AboutPython/ML&DL/Fraud_Detecting\|Fraud_Detecting]] | Fraud_Detecting | November 13, 2023 | <ul><li>#python</li><li>#딥러닝</li><li>#머신러닝</li><li>#DL</li><li>#ML</li></ul> |
 
 { .block-language-dataview}
+
+
