@@ -10,8 +10,8 @@ skills : `PYTHON`, `SQL`, `EXCEL`, `TABLEAU`, `Power BI`
 
 ## Project Sort 
 
-- 이전 Project 링크 
-https://statuesque-haumea-53d.notion.site/b3c775a083c64275888dfe5e6eab11c7
+- [이전 Project 링크](https://statuesque-haumea-53d.notion.site/b3c775a083c64275888dfe5e6eab11c7) 
+
 
 | File                                                      | projectname     | Created           | tag                                                                          |
 | --------------------------------------------------------- | --------------- | ----------------- | ---------------------------------------------------------------------------- |
